@@ -4,7 +4,7 @@
 **Joshv26/Joshv26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hello! I'm Joshv26 (Joshua Vaadelua), and this is my GitHub profile. Welcome! 👋
+Hello! I'm Joshv26 (Joshua Vaaelua), and this is my GitHub profile. Welcome! 👋
 
 Here's a snapshot of my tech journey:
 
